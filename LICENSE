@@ -1,75 +1,82 @@
-Required Notice: Copyright danrey (https://github.com/danrey-bilo/eams)
+EAMS ssl sender License
+Version 1.0 — October 2026
 
-# PolyForm Noncommercial License 1.0.0
+Required Notice: Copyright (c) 2026 danrey (https://github.com/danrey-bilo/email_ssl_sender)
 
-<https://polyformproject.org/licenses/noncommercial/1.0.0>
+Free to use. Source code may be viewed, but not copied, modified or redistributed.
 
-## Acceptance
+1. Definitions
 
-In order to get any license under these terms, you must agree to them as both strict obligations and conditions to all your licenses.
+"Software" means EAMS ssl sender: the source code in this repository, the official
+builds and the documentation.
 
-## Copyright License
+"Official builds" means the container images and release archives that the licensor
+publishes on the Releases page of this repository and in its GitHub Container Registry.
 
-The licensor grants you a copyright license for the software to do everything you might do with the software that would otherwise infringe the licensor's copyright in it for any permitted purpose.  However, you may only distribute the software according to [Distribution License](#distribution-license) and make changes or new works based on the software according to [Changes and New Works License](#changes-and-new-works-license).
+"You" means the individual or the organization that uses the Software, and "your
+organization" includes the people working for it.
 
-## Distribution License
+2. Free use
 
-The licensor grants you an additional copyright license to distribute copies of the software.  Your license to distribute covers distributing the software with changes and new works permitted by [Changes and New Works License](#changes-and-new-works-license).
+The licensor grants you a worldwide, non-exclusive, royalty-free, non-transferable
+license to install, run and use the official builds for any purpose, including
+commercial use within your organization, on any number of servers, free of charge.
 
-## Notices
+You may copy the official builds and keep backups of them within your organization as
+needed to install, run and restore the Software. You may copy and adapt the deployment
+files shipped in the official release archives (such as docker-compose.yml, .env.example
+and the scripts) only to deploy, configure and operate the Software.
 
-You must ensure that anyone who gets a copy of any part of the software from you also gets a copy of these terms or the URL for them above, as well as copies of any plain-text lines beginning with `Required Notice:` that the licensor provided with the software.  For example:
+3. Viewing the source code
 
-> Required Notice: Copyright Yoyodyne, Inc. (http://example.com)
+You may view the source code in this repository, including through GitHub, to evaluate
+the Software, review its security and understand how it works.
 
-## Changes and New Works License
+4. Restrictions
 
-The licensor grants you an additional copyright license to make changes and new works based on the software for any permitted purpose.
+Unless the licensor gives you prior written permission, you may not:
 
-## Patent License
+a. copy or reproduce the source code, in whole or in part, in any form, except for the
+   temporary copies your browser or GitHub makes so that you can view it;
+b. modify, translate or adapt the source code, create derivative works based on it, or
+   build and run modified versions of the Software;
+c. publish, distribute, sell, rent, lend, sublicense or otherwise make the source code,
+   the official builds or modified versions available to third parties;
+d. use the source code, in whole or in part, to develop, train or improve other software,
+   services or models;
+e. remove, alter or hide this license, the Required Notice or any copyright notices.
 
-The licensor grants you a patent license for the software that covers patent claims the licensor can license, or becomes able to license, that you would infringe by using the software.
+5. Forks
 
-## Noncommercial Purposes
+GitHub's Terms of Service allow users to view and fork public repositories on GitHub.
+A fork gives you no rights beyond this license: you may not modify, build, run or
+distribute the code from a fork.
 
-Any noncommercial purpose is a permitted purpose.
+6. Third-party components
 
-## Personal Uses
+The official builds contain open-source components from third parties. Those components
+remain under their own licenses, and nothing in this license limits your rights under
+those licenses.
 
-Personal use for research, experiment, and testing for the benefit of public knowledge, personal study, private entertainment, hobby projects, amateur pursuits, or religious observance, without any anticipated commercial application, is use for a permitted purpose.
+7. Contributions
 
-## Noncommercial Organizations
+The licensor does not accept code contributions. Bug reports and suggestions through
+GitHub Issues are welcome.
 
-Use by any charitable organization, educational institution, public research organization, public safety or health organization, environmental protection organization, or government institution is use for a permitted purpose regardless of the source of funding or obligations resulting from the funding.
+8. Termination
 
-## Fair Use
+If you break this license, your license ends automatically. If you stop the violation
+within 30 days after the licensor notifies you of it, your license is reinstated, but
+only once.
 
-You may have "fair use" rights for the software under the law. These terms do not limit them.
+9. No warranty and no liability
 
-## No Other Rights
+The Software is provided "as is", without warranty of any kind, express or implied,
+including the warranties of merchantability, fitness for a particular purpose and
+non-infringement. In no event shall the licensor be liable for any claim, damages or
+other liability arising from, out of or in connection with the Software or its use.
 
-These terms do not allow you to sublicense or transfer any of your licenses to anyone else, or prevent the licensor from granting licenses to anyone else.  These terms do not imply any other licenses.
+10. Language
 
-## Patent Defense
-
-If you make any written claim that the software infringes or contributes to infringement of any patent, your patent license for the software granted under these terms ends immediately. If your company makes such a claim, your patent license ends immediately for work on behalf of your company.
-
-## Violations
-
-The first time you are notified in writing that you have violated any of these terms, or done anything with the software not covered by your licenses, your licenses can nonetheless continue if you come into full compliance with these terms, and take practical steps to correct past violations, within 32 days of receiving notice.  Otherwise, all your licenses end immediately.
-
-## No Liability
-
-***As far as the law allows, the software comes as is, without any warranty or condition, and the licensor will not be liable to you for any damages arising out of these terms or the use or nature of the software, under any kind of legal claim.***
-
-## Definitions
-
-The **licensor** is the individual or entity offering these terms, and the **software** is the software the licensor makes available under these terms.
-
-**You** refers to the individual or entity agreeing to these terms.
-
-**Your company** is any legal entity, sole proprietorship, or other kind of organization that you work for, plus all organizations that have control over, are under the control of, or are under common control with that organization.  **Control** means ownership of substantially all the assets of an entity, or the power to direct its management and policies by vote, contract, or otherwise.  Control can be direct or indirect.
-
-**Your licenses** are all the licenses granted to you for the software under these terms.
-
-**Use** means anything you do with the software requiring one of your licenses.
+A Russian translation of this license is provided in LICENSE.ru.md for convenience. If
+the two texts differ, this English text prevails.
